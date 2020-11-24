@@ -1,0 +1,83 @@
+html {
+  height: 100%;
+  background: radial-gradient(ellipse at bottom, #1b2735 0%, #090a0f 100%);
+  overflow: hidden;
+
+}
+main
+{
+	text-align: center;
+	font-family: 'Pacifico';
+}
+header, nav
+{
+	font-family: 'Pacifico';
+	text-align: center;
+	text-shadow: 4px 4px #585858
+}
+ol{
+	color:white;
+
+}
+nav a{
+	padding: 40px;
+	padding-bottom: 4px;
+	font-size: 2.0em;
+	text-decoration: none;
+	color:white;
+}
+nav a:hover
+{
+	font-size: 150%;
+}
+
+div.a{
+	display: flex;
+	justify-content: center;
+	border-style: double;
+	color: white;
+	text-align: center;
+	font-family: sans-serif;
+	padding: 40px;
+	font-size: 2.0em;
+}
+div.b{
+	color:white;
+	font-family: sans-serif;
+}
+p.a
+{
+	font-family: cursive;
+}
+p.b
+{
+	color: white;
+	text-align: center;
+
+}
+footer{
+	background-image: linear-gradient(to left, violet, indigo, blue, green,yellow, pink, orange);
+	-webkit-background-clip:text;
+	-webkit-text-fill-color: transparent;
+
+}
+img.a
+{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+a
+{
+	color: white;
+}
+button
+{
+	color: red;
+}
+h1
+{
+	color: white;
+	text-align:center;
+}
